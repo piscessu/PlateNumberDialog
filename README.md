@@ -2,7 +2,7 @@
 a plate number dialog utils
 ---
 ![](https://github.com/piscessu/PlateNumberDialog/blob/master/screenshots/a.png)
-![](https://github.com/piscessu/BaseQuickAdapter/blob/master/screenshots/b.png)
+![](https://github.com/piscessu/PlateNumberDialog/blob/master/screenshots/b.png)
 ---
 
 #### 用法
